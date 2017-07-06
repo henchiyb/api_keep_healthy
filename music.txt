@@ -1,0 +1,54 @@
+"docs":
+[
+    {
+      "title": "Hello Hello",
+      "artist": "FT Island",
+      "genre": "Hàn Quốc, Pop / Ballad",
+      "source": {
+        "128": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNVEDLVAGTLDJTDGLG",
+        "320": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNVEDLVAGTVDGTDGLG",
+        "lossless": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNVEDLVAGTUOKKUMKKTDGLG"
+      },
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "genre": "Âu Mỹ, Electronic / Dance",
+      "source": {
+        "128": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNQAQJNLVTLDJTDGLG",
+        "320": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNQAQJNLVTVDGTDGLG",
+        "lossless": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNQAQJNLVTUOKKUMKKTDGLG"
+      },    
+    },
+    {
+      "title": "Heathens",
+      "artist": "Twenty One Pilots",
+      "genre": "Âu Mỹ, Pop, Nhạc Phim",
+      "source": {
+        "128": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNQQVNLNJTLDJTDGLG",
+        "320": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNQQVNLNJTVDGTDGLG",
+        "lossless": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNQQVNLNJTUOKKUMKKTDGLG"
+      },
+    },
+    {
+      "title": "Clap Hands",
+      "artist": "Tom Waits",
+      "genre": "Âu Mỹ, Rock",
+      "source": {
+        "128": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNVNXQEQJTLDJTDGLG",
+        "320": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNVNXQEQJTVDGTDGLG",
+        "lossless": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNVNXQEQJTUOKKUMKKTDGLG"
+      },
+    },
+    {
+      "title": "Everybody Knows",
+      "artist": "Ride",
+      "genre": "Âu Mỹ, Rock",
+      "source": {
+        "128": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNAAQEEGDTLDJTDGLG",
+        "320": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNAAQEEGDTVDGTDGLG",
+        "lossless": "http://api.mp3.zing.vn/api/mobile/source/song/LGJGTLGNAAQEEGDTUOKKUMKKTDGLG"
+      },
+    }
+]
+    
